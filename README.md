@@ -7,7 +7,10 @@ Erros no código, montagem no Tinkercad e Short Bio dos integrantes, você acha 
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/AC1.png)
-Montagem realizada por : Lucas de Carvalho Peagno
+Montagem realizada por : Lucas de Carvalho Peagno 
+
+Feito no dia : 25/03/21
+
 
 ## **AUTOMAÇÃO** 
 
