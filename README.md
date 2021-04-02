@@ -64,4 +64,4 @@ Para a realização da nossa AC, tivemos que analisar e encontrar erros em um c�
 
 ### Manifesto do grupo
 
-**O grupo Quinteto Fantástico deseja expressar por meio desse manifesto coletivo a satisfação e prazer em fazer parte desse processo tão simbólico e importante para o Brasil e para o mundo de uma forma geral. Desejamos sair dessa pandemia o quanto antes, e isso só será possível por meio das vacina.**
+**O grupo Quinteto Fantástico deseja expressar por meio desse manifesto coletivo a satisfação e prazer em fazer parte desse processo tão simbólico e importante para o Brasil e para o mundo de uma forma geral. Desejamos sair dessa pandemia o quanto antes, e isso só será possível por meio das vacinas.**
