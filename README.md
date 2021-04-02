@@ -28,8 +28,8 @@ Oii eu sou o Gabriel Gurgel aluno do 2RMB, sou de gêmeos, gosto muito de ler e 
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Lucas_Peagno.jpg)
 
-Meu nome é Lucas Peagno, sou do 2EMRB, tenho 16 anos e sou sagitariano, gosto muito de jogar videogame, sair com meus amigos e dormir. Eu fiquei encarregado pela montagem do dispositivo.
-- Responsável pela montagem no Tinkercad.
+Meu nome é Lucas Peagno, sou do 2EMRB, tenho 16 anos e sou sagitariano, gosto muito de dormir, sair com meus amigos e dormir mais um pouco. Nesse projeto, fiquei encarregado pela montagem do circuito no tinkercad e adicionar as funcionalidades faltantes.
+- Responsável pela montagem do circuito completo.
 
 **Rafaela de Mello Santos**
 
