@@ -54,12 +54,13 @@ Olá pessoal, sou o Vítor, estudante paranóico do 2RMB, escorpiano fiel, respo
 
 ## **DOCUMENTAÇÃO DO PROJETO**
 
-- Ajuste dos erros no código principal.
-- Documentação do projeto do github no README.md abordando todos os pontos necessários.
-- No README.md adicionando nome do grupo fotos e short bio de cada integrante.
-- Todos os pontos do código devem estar comentados corretamente informando o que se passa ali.
-- Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
-- Implementação das funcionalidades faltantes.
+Para a realização da nossa AC, tivemos que analisar e encontrar erros em um código. 
+
+- Primeiro, o Vitor montou o perfil de cada um de nós no GitHub, com fotos e uma pequena introdução. 
+- Depois, o Lucas montou o circuito no TinkerCad e enviou para o resto da equipe. 
+- Após isso, começamos a montagem do código, feita principalmente pelo Gabriel. 
+- A Rafaela, então comentou sobre o código logo em seguida em que resolvam os erros. 
+- Por fim, eu a Valentina que documentei todo o processo, como um diário de bordo.
 
 ### Manifesto do grupo
 
