@@ -7,10 +7,7 @@ Erros no código, montagem no Tinkercad e Short Bio dos integrantes, você acha 
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/AC1.png)
-Montagem realizada por : Lucas de Carvalho Peagno 
-
-Feito no dia : 25/03/21
-
+Montagem: Lucas de Carvalho Peagno
 
 ## **AUTOMAÇÃO** 
 
@@ -45,7 +42,7 @@ Meu nome é Rafaela Mello, sou taurina, tenho 16 anos e sou do 2EMRB. Gosto muit
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/Valentina_Reisewitz.jpg)
 
-Olá, eu sou a Valentina do 2RMB, sou capricorniana com ascendente em peixes, amo muito a arte em geral, incluindo canto, dança e pintura! Farei uma tarefa árdua e onisciente.
+Olá, eu sou a Valentina do 2RMB, sou capricorniana com ascendente em peixes, amo muito a arte em geral, incluindo canto, dança e pintura! Meu maior objetivo de vida é trabalhar com algo que influencie positivamente a vida das pessoas.
 - Responsável por documentar todo o projeto.
 
 **Vítor Henrique Nhoatto Bagattini**
@@ -55,7 +52,7 @@ Olá, eu sou a Valentina do 2RMB, sou capricorniana com ascendente em peixes, am
 Olá pessoal, sou o Vítor, estudante paranóico do 2RMB, escorpiano fiel, responsável e cuidadoso, porém que não sabe perdoar. Gosto muito de música, carros e principalmente interferir no mundo de maneira positiva, editar e arrumar.
 - Responsável pela edição do README.
 
-## **DOCUMENTAÇÃO DO PROJETO**
+**## **DOCUMENTAÇÃO DO PROJETO**
 
 Para a realização da nossa AC, tivemos que analisar e encontrar erros em um código. 
 
@@ -64,7 +61,8 @@ Para a realização da nossa AC, tivemos que analisar e encontrar erros em um c�
 - Após isso, começamos a montagem do código, feita principalmente pelo Gabriel. 
 - A Rafaela, então comentou sobre o código logo em seguida em que resolvam os erros. 
 - Por fim, eu a Valentina que documentei todo o processo, como um diário de bordo.
+**
 
 ### Manifesto do grupo
 
-**O grupo Quinteto Fantástico deseja expressar por meio desse manifesto coletivo a satisfação e prazer em fazer parte desse processo tão simbólico e importante para o Brasil e para o mundo de uma forma geral. Desejamos sair dessa pandemia o quanto antes, e isso só será possível por meio das vacinas.**
+**O grupo Quinteto Fantástico deseja expressar por meio desse manifesto coletivo a satisfação e prazer em fazer parte desse processo tão simbólico e importante para o Brasil e para o mundo de uma forma geral. Desejamos sair dessa pandemia o quanto antes, e isso só será possível por meio das vacinas.** 
