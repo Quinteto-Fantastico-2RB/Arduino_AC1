@@ -52,7 +52,7 @@ Olá, eu sou a Valentina do 2RMB, sou capricorniana com ascendente em peixes, am
 Olá pessoal, sou o Vítor, estudante paranóico do 2RMB, escorpiano fiel, responsável e cuidadoso, porém que não sabe perdoar. Gosto muito de música, carros e principalmente interferir no mundo de maneira positiva, editar e arrumar.
 - Responsável pela edição do README.
 
-**## **DOCUMENTAÇÃO DO PROJETO**
+## **DOCUMENTAÇÃO DO PROJETO**
 
 Para a realização da nossa AC, tivemos que analisar e encontrar erros em um código. 
 
