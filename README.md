@@ -59,9 +59,8 @@ Para a realização da nossa AC, tivemos que analisar e encontrar erros em um c�
 - Primeiro, o Vitor montou o perfil de cada um de nós no GitHub, com fotos e uma pequena introdução. 
 - Depois, o Lucas montou o circuito no TinkerCad e enviou para o resto da equipe. 
 - Após isso, começamos a montagem do código, feita principalmente pelo Gabriel. 
-- A Rafaela, então comentou sobre o código logo em seguida em que resolvam os erros. 
+- A Rafaela, então comentou sobre o código logo em seguida em que resolvem os erros. 
 - Por fim, eu a Valentina que documentei todo o processo, como um diário de bordo.
-**
 
 ### Manifesto do grupo
 
